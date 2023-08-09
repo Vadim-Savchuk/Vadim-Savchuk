@@ -3,7 +3,22 @@ Header
 ## Hello, my name is Vadim and I am a beginning frontend developer.
 
 ### Languages and Tools
-![Flutter](https://img.shields.io/badge/any_text-you_like-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-e5e321?style=for-the-badge&logo=javascript&logoColor=201c00)
+![React](https://img.shields.io/badge/React-201c00?style=for-the-badge&logo=React&logoColor=008eff)
+![Redux-tollkit](https://img.shields.io/badge/Redux_Toolkit-e2e2e2?style=for-the-badge&logo=Redux&logoColor=123c55)
+![Sass](https://img.shields.io/badge/Sass-ea496f?style=for-the-badge&logo=Sass&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-094fb2?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
+![NodeJs](https://img.shields.io/badge/Node_Js-1e793e?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
+![Express](https://img.shields.io/badge/Express-787772?style=for-the-badge&logo=Express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/Mongo_DB-171934?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
+
+### My contacts
+![Instagram](https://img.shields.io/badge/Instagram-de5efe?style=for-the-badge&logo=Instagram&logoColor=ffffff&link=https%3A%2F%2Fwww.instagram.com%2Fsa8chuk%2F)
+![Facebook](https://img.shields.io/badge/Facebook-08a0ff?style=for-the-badge&logo=Facebook&logoColor=ffffff&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100009804345281)
+![Telegram](https://img.shields.io/badge/Telegram-5363ad?style=for-the-badge&logo=Telegram&logoColor=ffffff&link=https%3A%2F%2Ft.me%2FSa8chuk)
+![Email](https://img.shields.io/badge/Email-80324f?style=for-the-badge&logo=Gmail&logoColor=ffffff&link=mailto:vadimsavcuk38@gmail.com)
+
+
 
 
 
