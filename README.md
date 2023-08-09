@@ -1,4 +1,4 @@
-Header
+![Header](https://img.freepik.com/free-photo/beautiful-fluffy-cat-in-bed-generative-ai_169016-28978.jpg?w=1380&t=st=1691601712~exp=1691602312~hmac=4571bd4d0b1e79545177020f2e39ad9790e41ca2874ca45c110908a7014140ab)
 
 ## Hello, my name is Vadim and I am a beginning frontend developer.
 
@@ -12,12 +12,21 @@ Header
 ![Express](https://img.shields.io/badge/Express-787772?style=for-the-badge&logo=Express&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/Mongo_DB-171934?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
 
+### I am studying now
++ How to write quality code <br/>
++ TypeScript <br/>
++ English <br/>
+
+###  I’m looking for help with employment
+
 ### My contacts
 [![Instagram](https://img.shields.io/badge/Instagram-de5efe?style=for-the-badge&logo=Instagram&logoColor=ffffff)](https://www.instagram.com/sa8chuk)
 [![Facebook](https://img.shields.io/badge/Facebook-08a0ff?style=for-the-badge&logo=Facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100009804345281)
 [![Telegram](https://img.shields.io/badge/Telegram-5363ad?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/Sa8chuk)
 [![Email](https://img.shields.io/badge/Email-80324f?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:vadimsavcuk38@gmail.com)
 
+### Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-Savchuk&layout=compact)
 
 
 
