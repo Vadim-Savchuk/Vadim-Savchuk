@@ -16,7 +16,7 @@ Header
 [![Instagram](https://img.shields.io/badge/Instagram-de5efe?style=for-the-badge&logo=Instagram&logoColor=ffffff)](https://www.instagram.com/sa8chuk)
 [![Facebook](https://img.shields.io/badge/Facebook-08a0ff?style=for-the-badge&logo=Facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100009804345281)
 [![Telegram](https://img.shields.io/badge/Telegram-5363ad?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/Sa8chuk)
-[![Email](https://img.shields.io/badge/Email-80324f?style=for-the-badge&logo=Gmail&logoColor=ffffff)](link=mailto:vadimsavcuk38@gmail.com)
+[![Email](https://img.shields.io/badge/Email-80324f?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:vadimsavcuk38@gmail.com)
 
 
 
