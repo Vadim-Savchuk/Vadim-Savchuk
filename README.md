@@ -4,13 +4,13 @@
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-e5e321?style=for-the-badge&logo=javascript&logoColor=201c00)
-![React](https://img.shields.io/badge/React-201c00?style=for-the-badge&logo=React&logoColor=008eff)
+![React](https://img.shields.io/badge/React-00feff?style=for-the-badge&logo=React&logoColor=120907)
 ![Redux-tollkit](https://img.shields.io/badge/Redux_Toolkit-e2e2e2?style=for-the-badge&logo=Redux&logoColor=123c55)
 ![Sass](https://img.shields.io/badge/Sass-ea496f?style=for-the-badge&logo=Sass&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-094fb2?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 ![NodeJs](https://img.shields.io/badge/Node_Js-1e793e?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/Express-787772?style=for-the-badge&logo=Express&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/Mongo_DB-171934?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/Mongo_DB-a7e869?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
 
 ### I am studying now
 + How to write quality code <br/>
