@@ -11,6 +11,7 @@
 ![NodeJs](https://img.shields.io/badge/Node_Js-1e793e?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/Express-787772?style=for-the-badge&logo=Express&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/Mongo_DB-a7e869?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
+![Gulp](https://img.shields.io/badge/Gulp-e74441?style=for-the-badge&logo=Gulp&logoColor=ffffff)
 
 ### I am studying now
 + How to write quality code <br/>
